@@ -1,0 +1,6 @@
+green_Greenfield-30
+green_Tess-20
+green_Lipton-15
+black_Greenfield-30
+black_Tess-25
+black_Curtis-20
